@@ -13,4 +13,4 @@ This project is to create a basic web page with some functionality.
 This project will be created using HTML and CSS code on VSCode and uploaded to GitHub using GitHub Pages.
 
 ### Status 
-This project is still in the starting stages.
+This project is complete.
